@@ -3,10 +3,10 @@
 
 * [HOME](./)
 
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
+* [Getting Started](./gettingstarted/index)
+  * [Using central installation](./gettingstarted/central/index)
+  * [Making code changes](./gettingstarted/makingchanges/index)
+  * [Version control](./gettingstarted/version/index)
 
 * [About](./about/index)
 
